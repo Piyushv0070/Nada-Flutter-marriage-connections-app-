@@ -147,8 +147,6 @@ In accordance with workplace practices and disclosure guidelines, the following 
 ## 🛠️ Architecture & Tech Stack
 
 * **Framework**: [Flutter](https://flutter.dev/) (Material Design 3)
-
-Screen-1.png
 * **Language**: [Dart](https://dart.dev/)
 * **State Management**: [Flutter Riverpod](https://riverpod.dev/) (`2.6.1`)
 * **Network & Fonts**: `http`, `google_fonts`
