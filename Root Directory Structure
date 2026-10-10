@@ -1,0 +1,16 @@
+nada_app/
+├── lib/
+│   ├── main.dart
+│   ├── models/
+│   │   └── profile.dart
+│   ├── repositories/
+│   │   └── profile_repository.dart
+│   ├── providers/
+│   │   └── profile_provider.dart
+│   └── screens/
+│       ├── profile_list_screen.dart
+│       └── profile_detail_screen.dart
+├── test/
+│   └── widget_test.dart
+├── pubspec.yaml
+└── README.md
