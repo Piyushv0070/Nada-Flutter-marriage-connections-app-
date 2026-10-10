@@ -150,3 +150,6 @@ In accordance with workplace practices and disclosure guidelines, the following 
 * **Language**: [Dart](https://dart.dev/)
 * **State Management**: [Flutter Riverpod](https://riverpod.dev/) (`2.6.1`)
 * **Network & Fonts**: `http`, `google_fonts`
+
+
+
