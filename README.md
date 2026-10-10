@@ -139,7 +139,8 @@ Given additional development time, I would build the following enhancements:
 
 In accordance with workplace practices and disclosure guidelines, the following AI tools were utilized during development:
 
-* **Android Studio AI Assistant / Cursor Agent**: Used for initial boilerplate scaffolding, formatting the raw 24-profile JSON dataset into Dart models, verifying Riverpod state overrides in unit tests, and configuring font fallbacks for Devanagari text.
+* **Google Gemini**: Used for initial boilerplate scaffolding, formatting the raw 24-profile JSON dataset into Dart models, verifying Riverpod state overrides in unit tests, and configuring font fallbacks for Devanagari text.
+* **Google Stitch**: Used for UI layout generation, component design references, and styling structure.
 
 ---
 
